@@ -1,0 +1,46 @@
+Privacy Policy
+
+This Privacy Policy explains how we collect, use, and disclose information from and about you when you use the Kitab Rungus app (the "App"), which is developed by the Protestant Church in Sabah. We take your privacy seriously and are committed to protecting your personal information. By using the App, you consent to our collection, use, and disclosure of your information as described in this Privacy Policy.
+
+Information We Collect
+We may collect the following types of information from and about you:
+Device Information: We may collect certain information about your mobile device, such as its operating system, device type, and unique device identifier.
+
+Usage Information: We may collect information about how you use the App, such as the pages or screens you access, how long you spend on each page or screen, and the actions you take.
+
+Audio Files: The App requires internet connection to download and save audio files to your device's storage. The App also uses your device's speaker to play the audio files.
+
+Clipboard Content: The App has the capability to access the text you copied from the App for the purpose of sharing it with other apps. We do not store or collect this information.
+
+App File Installer: The App has the capability to share its installer file (.apk) with other apps.
+
+How We Use Your Information
+We may use the information we collect from and about you for the following purposes:
+To provide and improve the App's functionality, features, and performance.
+
+To personalize your experience with the App.
+
+To communicate with you about the App, including updates, technical issues, and customer service inquiries.
+
+To comply with applicable laws and regulations.
+
+How We Share Your Information
+We do not share your personal information with third parties, except as follows:
+With your consent.
+
+With service providers who perform services on our behalf, such as hosting, maintenance, and support.
+
+To comply with applicable laws and regulations, or to respond to lawful requests and legal process.
+
+In connection with a merger, acquisition, or sale of all or a portion of our assets.
+
+Security
+We take reasonable measures to help protect your personal information from unauthorized access, use, and disclosure. However, no security measures are perfect or impenetrable, and we cannot guarantee the security of your information.
+
+Changes to this Privacy Policy
+We may update this Privacy Policy from time to time. If we make material changes to this Privacy Policy, we will notify you by email or by posting a notice in the App.
+
+Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at pcspusat@gmail.com or john.phelyno@gmail.com.
+
+Last Updated: 19 April 2023
